@@ -224,10 +224,4 @@ button:hover,
         transform:scale(1.15);
     }
 }
-#digitando{
-    color:#ff2d55;
-    font-size:1.2rem;
-    font-weight:bold;
-    min-height:40px;
-    margin-bottom:25px;
-}
+
